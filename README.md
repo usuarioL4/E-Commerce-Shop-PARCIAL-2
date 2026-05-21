@@ -118,4 +118,4 @@ Proyecto en desarrollo y mejora continua.
 Este proyecto es de uso académico y educativo.
 
 ## importante
-no tuvimos tiempo para terminar los 10 microservicios, crear el gateway y evidenciar cambios en github, lo lamentamos :(
+no tuvimos tiempo para terminar los 10 microservicios, crear el gateway, evidenciar cambios en github ni logs, lo lamentamos demasiado :(
