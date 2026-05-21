@@ -101,9 +101,9 @@ Este proyecto fue desarrollado con fines académicos y prácticos, aplicando con
 
 ## Integrantes
 
-* user1
-* user2
-* user3
+* Jerson Pedreros
+* Eduardo
+* Edward
 
 ---
 
@@ -116,3 +116,6 @@ Proyecto en desarrollo y mejora continua.
 ## Licencia
 
 Este proyecto es de uso académico y educativo.
+
+## importante
+no tuvimos tiempo para terminar los 10 microservicios, crear el gateway y evidenciar cambios en github, lo lamentamos :(
